@@ -2,7 +2,7 @@
 ## Descrição do projeto
 
 <p width="100%" align="center"> 
-<img src="./img/logo-git.png"width="33%"> 
+<img src="./img/download.jpg"width="62%"> 
 </p>
 
 <h1> TITULO HTML </h1>
